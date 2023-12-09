@@ -1,6 +1,6 @@
 {
   "name": "react-native-use-keyboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A versatile and lightweight React Native hook for responsive keyboard handling. This hook provides real-time keyboard visibility and height information, supports customizable events, debounce handling for performance optimization, and is adaptable to orientation changes. It's designed to improve user experience and simplify keyboard-related UI adjustments in React Native applications.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
